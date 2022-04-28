@@ -10,6 +10,4 @@ echo "Installing pythonping"
 git clone https://github.com/alessandromaggio/pythonping
 cd pythonping
 python3 setup.py install
-echo "Running  the script"
-cd ping-bot 
-python3 pingbotforlinux.py
+echo "Type cd ping-bot and then python3 pingbotforlinux.py"
