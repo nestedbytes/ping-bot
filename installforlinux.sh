@@ -9,5 +9,5 @@ sudo apt-get install python3.8
 echo "Installing pythonping"
 git clone https://github.com/alessandromaggio/pythonping
 cd pythonping
-python3 setup.py install
-echo "Type cd ping-bot and then python3 pingbotforlinux.py"
+sudo python3 setup.py install
+echo "Type cd ping-bot and then sudo python3 pingbotforlinux.py"
