@@ -8,6 +8,23 @@ This is just for testing your own servers please don't use this to crash someone
 ```sh
 git clone https://github.com/shourgamer2/ping-bot
 ```
+### Download for linux
+Download the sh script
+```sh
+wget https://shourgamer2.tk/ping-bot/installforlinux.sh
+```
+run the sh file
+```sh
+bash installforlinux.sh
+```
+cd to the dir
+```sh
+cd ping-bot
+```
+run the python file
+```sh
+sudo python3 pingbotforlinux.py
+```
 ### Modify
 Text at the starting 
 ```python
