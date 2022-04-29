@@ -4,10 +4,6 @@ A bot made to ping a ip or a website with a size and amount
 This is just for testing your own servers please don't use this to crash someone's server/website.If you get in any trouble i wont be responsible.You have been warned.
 ### Download For Windows
 [Download](https://github.com/shourgamer2/ping-bot/releases/download/1.0.0/pingbot.exe)
-### Clone
-```sh
-git clone https://github.com/shourgamer2/ping-bot
-```
 ### Download for linux
 Download the sh script
 ```sh
@@ -24,6 +20,10 @@ cd ping-bot
 run the python file
 ```sh
 sudo python3 pingbotforlinux.py
+```
+### Clone
+```sh
+git clone https://github.com/shourgamer2/ping-bot
 ```
 ### Modify
 Text at the starting 
