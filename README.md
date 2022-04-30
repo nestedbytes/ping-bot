@@ -3,7 +3,7 @@ A bot made to ping a ip or a website with a size and amount
 ### DISCLAIMER
 This is just for testing your own servers please don't use this to crash someone's server/website.If you get in any trouble i wont be responsible.You have been warned.
 ### Download For Windows
-[Download](https://github.com/shourgamer2/ping-bot/releases/download/1.0.0/pingbot.exe)
+[Download](https://github.com/shourgamer2/ping-bot/releases/download/1.1.0/pingbot.exe)
 ### Download for linux
 **Automated Install** <br>
 In this install you have to just download a script and run it to install it. <br>
