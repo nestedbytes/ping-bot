@@ -87,7 +87,7 @@ Text at the starting
 ```python
 print("DISCLAIMER")
 print("This is just for testing your own servers please don't use this to crash someone's server/website.If you get in any trouble i wont be responsible.You have been warned ")
-print("-----------Ping Bot Version 1.0.0-----------")
+print("-----------Ping Bot Version 1.1.0-----------")
 print("-----------https://github.com/shourgamer2/ping-bot-----------")
 print("Importing Packages")
 ```
@@ -102,7 +102,7 @@ updater
 ```python
 print("Importing variables")
 latestversion = get('https://shourgamer2.tk/ping-bot/version.txt').text
-version = "1.0.0"
+version = "1.1.0"
 print("checking for updates")
 if (latestversion.strip() == version):
     print("you are in correct version")
