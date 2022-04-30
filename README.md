@@ -71,6 +71,18 @@ Then type the count of ping <br>
 Then type the size <br>
 ![size](https://user-images.githubusercontent.com/90188229/166086200-82c6bb8b-dfe0-4db2-8877-bf4114e2adfe.png)
 ### Modify
+Clone
+```sh
+git clone https://github.com/shourgamer2/ping-bot
+```
+cd
+```sh
+cd ping-bot
+```
+Install the needed packages
+```sh
+python -m pip install -r requirements.txt
+```
 Text at the starting 
 ```python
 print("DISCLAIMER")
