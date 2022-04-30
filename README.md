@@ -5,6 +5,8 @@ This is just for testing your own servers please don't use this to crash someone
 ### Download For Windows
 [Download](https://github.com/shourgamer2/ping-bot/releases/download/1.0.0/pingbot.exe)
 ### Download for linux
+**Automated Install** <br>
+In this install you have to just download a script and run it to install it. <br>
 Download the sh script
 ```sh
 wget https://shourgamer2.tk/ping-bot/installforlinux.sh
@@ -21,10 +23,54 @@ run the python file
 ```sh
 sudo python3 pingbotforlinux.py
 ```
-### Clone
+**Manual** <br>
+In this install you have to manualy run all the commands to install it <br>
+Install git
+```sh
+sudo apt-get install git
+```
+Clone this repo
 ```sh
 git clone https://github.com/shourgamer2/ping-bot
 ```
+Install python
+```sh
+sudo apt-get install python3.8
+```
+Install pip
+```sh
+git clone https://github.com/pypa/pip
+```
+```sh
+cd pip
+```
+```sh
+sudo python3 setup.py install
+```
+Install pythonping package
+```sh
+sudo pip install pythonping
+```
+To run it
+```sh
+cd ping-bot
+```
+```sh
+sudo python3 pingbotforlinux.py
+```
+### Usage
+First type in the url/ip you want to send these pings to <br>
+![url/ip](https://user-images.githubusercontent.com/90188229/166086079-3421e164-ca22-4027-975a-5df58185956f.png) <br>
+Then type the count of ping <br>
+![count](https://user-images.githubusercontent.com/90188229/166086144-273ae724-7ea3-40b2-8ba9-04802849cf81.png) <br>
+Then type the size <br>
+![size](https://user-images.githubusercontent.com/90188229/166086200-82c6bb8b-dfe0-4db2-8877-bf4114e2adfe.png)
+
+
+
+
+
+
 ### Modify
 Text at the starting 
 ```python
