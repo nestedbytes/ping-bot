@@ -58,6 +58,11 @@ cd ping-bot
 ```sh
 sudo python3 pingbotforlinux.py
 ```
+### Install in cloud 
+
+[<img alt="run on replit" width="100px" src="https://repl.it/badge/github/shourgamer2/ping-bot" />](https://repl.it/github/shourgamer2/ping-bot)
+
+
 ### Usage
 First type in the url/ip you want to send these pings to <br>
 ![url/ip](https://user-images.githubusercontent.com/90188229/166086079-3421e164-ca22-4027-975a-5df58185956f.png) <br>
@@ -65,12 +70,6 @@ Then type the count of ping <br>
 ![count](https://user-images.githubusercontent.com/90188229/166086144-273ae724-7ea3-40b2-8ba9-04802849cf81.png) <br>
 Then type the size <br>
 ![size](https://user-images.githubusercontent.com/90188229/166086200-82c6bb8b-dfe0-4db2-8877-bf4114e2adfe.png)
-
-
-
-
-
-
 ### Modify
 Text at the starting 
 ```python
