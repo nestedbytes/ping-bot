@@ -10,6 +10,7 @@ echo "Installing pip"
 git clone https://github.com/pypa/pip
 cd pip
 sudo python3 setup.py install
-echo "Installing pythonping package"
-sudo pip install pythonping
+echo "Installing requirements"
+cd ping-bot
+sudo python3 -m pip install -r requirements.txt
 echo "Type cd ping-bot and then sudo python3 pingbotforlinux.py"
