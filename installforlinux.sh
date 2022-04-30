@@ -11,6 +11,5 @@ git clone https://github.com/pypa/pip
 cd pip
 sudo python3 setup.py install
 echo "Installing requirements"
-cd ping-bot
-sudo python3 -m pip install -r requirements.txt
+pip install pythonping
 echo "Type cd ping-bot and then sudo python3 pingbotforlinux.py"
