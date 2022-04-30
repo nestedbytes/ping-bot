@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Installing ping-bot version 1.0.0"
+echo "Installing ping-bot version 1.1.0"
 echo "installing git"
 sudo apt-get install git
 echo "Cloning the repo"
