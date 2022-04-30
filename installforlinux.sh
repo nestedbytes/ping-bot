@@ -12,4 +12,5 @@ cd pip
 sudo python3 setup.py install
 echo "Installing requirements"
 pip install pythonping
+echo "Everything is now installed,you can now use ping-bot"
 echo "Type cd ping-bot and then sudo python3 pingbotforlinux.py"
