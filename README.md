@@ -138,7 +138,7 @@ print("Ultra - 1000")
 print("Extreme - 5000")
 pingsi = input("Enter the size: ")
 ```
-var
+variables
 ```python
 print1 = "Pinging"
 print2 = "with count"
