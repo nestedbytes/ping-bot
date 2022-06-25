@@ -1,3 +1,5 @@
+### Outdated
+THIS PROJECT IS OUTDATED I WONT UPDATE IT ANYMORE !
 ### ping-bot
 A bot made to ping a ip or a website with a size and amount 
 ### DISCLAIMER
